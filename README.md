@@ -6,10 +6,6 @@
 
 <h3 align="center">I'm a frontend developer with over 2.5 years of experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanrdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="nayanrdeveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanrdeveloper" alt="nayanrdeveloper" /></a> </p>
-
 **About me**
 
 - 💼 Software Developer at [In Time Tec](https://www.intimetec.com/)
@@ -21,6 +17,10 @@
 - 🌐 Developing proficiency in Next.js for server-side rendering and building static websites. 
 
 - 📱 Exploring React Native for cross-platform mobile app development.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanrdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="nayanrdeveloper" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanrdeveloper" alt="nayanrdeveloper" /></a> </p>
 
 
 # 💻 Tech Stack:
