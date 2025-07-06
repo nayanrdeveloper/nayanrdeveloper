@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, Hi, I'm Nayan Radadiya</h1>
+<h1 align="center">👋, Hi, I'm Nayan Radadiya</h1>
 
 ![Banner](/header.png)
 
 <p align="center"><a href="https://twitter.com/nayan_radadiya6"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/nayanradadiya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
-<h3 align="center">I'm a frontend developer with over **4.5 years of experience** building responsive, accessible, and performant web applications. My work focuses on delivering clean UI/UX, scalable architecture, and modern frontend solutions.</h3>
+<h3 align="center">I'm a frontend developer with over 4.5 years of experience building responsive, accessible, and performant web applications. My work focuses on delivering clean UI/UX, scalable architecture, and modern frontend solutions.</h3>
 
 ---
 
