@@ -1,6 +1,6 @@
 <h1 align="center">👋, Hi, I'm Nayan Radadiya</h1>
 
-![Banner](/header.png)
+![Banner](/Black and White Gradient Personal LinkedIn Banner.png)
 
 <p align="center"><a href="https://twitter.com/nayan_radadiya6"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/nayanradadiya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
